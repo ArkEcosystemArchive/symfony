@@ -1,5 +1,5 @@
 {
-    "name": "arkecosystem/ark-bundle",
+    "name": "arkecosystem/bundle",
     "description": "A Symfony bundle for Ark Core.",
     "keywords": ["symfony", "bundle", "ark", "blockchain", "crypto", "currency"],
     "license": "MIT",
