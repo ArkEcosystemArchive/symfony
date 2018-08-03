@@ -4,7 +4,7 @@
     <img src="https://github.com/ArkEcosystem/symfony/blob/master/banner.png" />
 </p>
 
-> A simple PHP Cryptography Implementation for the Ark Blockchain.
+> A Symfony bundle for Ark Core.
 
 [![Build Status](https://travis-ci.org/ArkEcosystem/symfony.svg)](https://travis-ci.org/ArkEcosystem/symfony)
 [![Codecov](https://img.shields.io/codecov/c/github/arkecosystem/symfony/master.svg)](https://codecov.io/gh/arkecosystem/symfony)

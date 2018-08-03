@@ -1,6 +1,6 @@
 {
     "name": "arkecosystem/ark-bundle",
-    "description": "A Symfony bridge for Ark Core.",
+    "description": "A Symfony bundle for Ark Core.",
     "keywords": ["symfony", "bundle", "ark", "blockchain", "crypto", "currency"],
     "license": "MIT",
     "authors": [{
