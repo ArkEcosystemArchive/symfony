@@ -1,0 +1,5 @@
+services:
+  ark.client:
+    public: true
+    class: ArkEcosystem\Client\Connection
+    arguments: ['%ark%']
