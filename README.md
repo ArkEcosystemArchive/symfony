@@ -6,10 +6,10 @@
 
 > A Symfony bundle for Ark Core.
 
-[![Build Status](https://travis-ci.org/ArkEcosystem/symfony.svg)](https://travis-ci.org/ArkEcosystem/symfony)
-[![Codecov](https://img.shields.io/codecov/c/github/arkecosystem/symfony/master.svg)](https://codecov.io/gh/arkecosystem/symfony)
-[![Latest Version](https://img.shields.io/github/release/ArkEcosystem/symfony.svg)](https://github.com/ArkEcosystem/symfony/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://badgen.now.sh/travis/ArkEcosystem/symfony)](https://badgen.now.sh/travis/ArkEcosystem/symfony)
+[![Codecov](https://badgen.now.sh/codecov/c/github/arkecosystem/symfony)](https://codecov.io/gh/arkecosystem/symfony)
+[![Latest Version](https://badgen.now.sh/github/release/ArkEcosystem/symfony)](https://github.com/ArkEcosystem/symfony/releases)
+[![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
 ## Documentation
 
