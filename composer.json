@@ -11,8 +11,8 @@
     "require": {
         "php": "^7.1",
         "arkecosystem/client": "^1.0.0",
-        "symfony/dependency-injection": "^4.0",
-        "symfony/framework-bundle": "^4.0"
+        "symfony/dependency-injection": "^5.0.0",
+        "symfony/framework-bundle": "^5.0.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.0",
